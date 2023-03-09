@@ -7,5 +7,5 @@ I plan to user Phaser's tutorials for basic concepts, then move on to Shakuro's 
 Link: https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game
 
 #####TODO
----
+
 Mobile Response
