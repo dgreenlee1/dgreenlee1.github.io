@@ -10,7 +10,6 @@ TODO
 ---
 
 - Rebuild game engine
-
 - Add Idle elements
-
 - Mobile Response
+- Advanced combat mechanics (JK2-like, directional facing-based)
