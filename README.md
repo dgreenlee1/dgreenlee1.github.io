@@ -8,4 +8,6 @@ Link: https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-pha
 
 TODO
 ---
+Rebuild game engine
+Add Idle elements
 Mobile Response
